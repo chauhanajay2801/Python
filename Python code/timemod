@@ -1,0 +1,11 @@
+import time
+
+initial = time.time()#the current time
+
+for i in range(100):
+    print("Ajay")
+    #time.sleep(1)#delays the execution of a program
+print(f"the program took{time.time()-initial}")
+
+localtime =time.asctime(time.localtime(time.time()))
+print(localtime)
