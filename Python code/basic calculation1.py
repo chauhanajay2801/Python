@@ -18,7 +18,7 @@ b = "dragon"
 print(a==b)
 
 c = "i hope this course is not full of jargon"
-print("jargon" in c)
+print("jargon"  in c)
 print(len(a))
 print(float(len(a)))
 
