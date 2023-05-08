@@ -5,8 +5,6 @@ dog["breed"] = "bulldog"
 dog["legs"] = 4
 dog["name"] = 10
 
-print(dog)
-
 student = {"first_name":"Ajay","last_name":"Chauhan","gender":"Male",
 "age":19,"marital status":"Taken","skills":["python","html","css","javascript"],
 "country":"India","city":"faridabad","address":{"1768","jawahar colony","nit faridabad"}}
